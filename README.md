@@ -1,2 +1,2 @@
 # task
-task repo
+task for github commands
